@@ -1,6 +1,6 @@
 # Find-appointment
 
-A python program that search in a json calender and find a free appointment 
+A python program that search in a json calender to find a free appointment 
 the program has a standarized model api class
 and two view programs.
 
