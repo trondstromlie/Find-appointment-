@@ -1,0 +1,132 @@
+{
+    "doctor": [
+        {
+            "name": "dr larsen",
+            "slotts": [
+                15,
+                30,
+                45
+            ],
+            "calender": {
+                "monday": {
+                    "10:15": {
+                        "appoint": true,
+                        "details": "sdfy"
+                    },
+                    "10:30": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "10:45": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "11:00": {
+                        "type": "public",
+                        "appoint": "lunch",
+                        "details": "the doctor is at lunch"
+                    },
+                    "11:15": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "12:00": {
+                        "appoint": "None",
+                        "details": "None"
+                    }
+                },
+                "wedensday": {
+                    "10:15": {
+                        "appoint": true,
+                        "details": "dsf"
+                    },
+                    "10:30": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "10:45": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "11:00": {
+                        "type": "public",
+                        "appoint": "lunsj",
+                        "details": "Legen er opptatt"
+                    },
+                    "11:15": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "12:00": {
+                        "appoint": "None",
+                        "details": "None"
+                    }
+                }
+            }
+        },
+        {
+            "name": "dr pedersen",
+            "slotts": [
+                15,
+                30,
+                45
+            ],
+            "calender": {
+                "monday": {
+                    "10:15": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "10:30": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "10:45": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "11:00": {
+                        "type": "public",
+                        "appoint": "lunsj",
+                        "details": "Legen er opptatt"
+                    },
+                    "11:15": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "12:00": {
+                        "appoint": "None",
+                        "details": "None"
+                    }
+                },
+                "wedensday": {
+                    "10:15": {
+                        "appoint": true,
+                        "details": "dsfd"
+                    },
+                    "10:30": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "10:45": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "11:00": {
+                        "type": "public",
+                        "appoint": "lunsj",
+                        "details": "Legen er opptatt"
+                    },
+                    "11:15": {
+                        "appoint": "None",
+                        "details": "None"
+                    },
+                    "12:00": {
+                        "appoint": "None",
+                        "details": "None"
+                    }
+                }
+            }
+        }
+    ]
+}
